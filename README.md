@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robbienukes
 - 👀 I’m interested in R programming, quantitative reporting, financial reporting, machine learning, and statistics
-- 🌱 I’m currently learning libear algebra
+- 🌱 I’m currently learning linear algrebra again
 - 📫 How to reach me robertjlmccormick@gmail.com
 
 <!---
